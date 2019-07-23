@@ -1,0 +1,9 @@
+{
+  "name": "webrtc-example",
+  "version": "0.0.1",
+  "description": "webrtc-example",
+  "dependencies": {
+    "ws": "^7.1.0",
+    "wscat": "^2.2.1"
+  }
+}
