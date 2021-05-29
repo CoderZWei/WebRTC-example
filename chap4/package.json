@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "webrtc-example",
   "dependencies": {
-    "ws": "^7.1.0",
+    "ws": "^7.4.6",
     "wscat": "^2.2.1"
   }
 }
